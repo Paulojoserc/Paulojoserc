@@ -2,8 +2,9 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 - 🌱 Atualmente estou me aperfeiçoando em Java e Linux.
-- 🎓 Formado: Analise desenvolvimento de sistema.t.
-- 📚  Sou estudante da Alura.
+- 🎓 Formado: Analise desenvolvimento de sistemas
+- 📚 Fui aluno da Alura.
+- 📚  Sou estudante da Algaworks.
 - 💬 Pode me perguntar se não souber vou atrás.
 <!-- 🎖 My main original projects:  -->
 
