@@ -96,38 +96,6 @@
 
 ---
 
-## 🏆 Experiência Profissional
-
-### Analista de Suporte — Comunidade Católica Shalom
-*Dez/2017 — Presente (8+ anos)*
-
-- Administração de Active Directory, DNS, DHCP, GPO e File Server em Windows Server
-- Configuração e gestão de Firewall Fortinet (regras, NAT, roteamento)
-- Implantação de segmentação de rede via VLANs
-- Gestão de VPNs Site-to-Site e Client-to-Site
-- Implantação e administração do Kaspersky Security Center
-- Monitoramento com Zabbix
-- Administração de Proxmox e containers Docker
-- Liderança na homologação de ambiente com Ollama para LLMs locais
-- Planejamento de aquisição de infraestrutura e especificações técnicas para fornecedores
-- Suporte a sistemas ERP (Milênio, Lux W4, Forte AC)
-
-### Analista de Suporte Júnior — Comunidade Católica Shalom
-*Abr/2013 — Dez/2017 (4 anos e 9 meses)*
-
-- Administração e suporte a servidores Windows Server (2005, 2008R2, 2012R2)
-- Suporte a sistemas ERP (Lux W4, Forte AC) e sistemas de videomonitoramento
-- Implantação e suporte ao Service Desk
-- Suporte técnico remoto e presencial
-
-### Técnico de Suporte em TI — Ello-Comércio de Materiais Médicos e Cirúrgicos
-*Abr/2010 — Abr/2013 (3 anos)*
-
-- Manutenção de hardware, instalação e configuração de redes
-- Suporte técnico remoto e presencial
-- Instalação e configuração de Windows XP, 7 e 8.1
-
----
 
 ## 🏥 ClinicMedAgil
 
