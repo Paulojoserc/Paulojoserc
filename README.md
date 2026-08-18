@@ -13,12 +13,29 @@
 <div align="center">
 
 [![Seguidores](https://img.shields.io/github/followers/Paulojoserc?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=followers)
-[![Repositórios](https://img.shields.io/github/repos/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=repositories)
-[![Contribuições](https://img.shields.io/github/contributors/Paulojoserc?label=Contribuições&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc/pulse)
+[![Repositórios](https://img.shields.io/github/repo-count/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=repositories)
+[![Contribuições](https://img.shields.io/github/contributor-count/Paulojoserc?label=Contribuições&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc/pulse)
 
 </div>
 
 <br><br>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&theme=radical&show_icons=true&border_color=333333" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333&langs_count=8&hide=html" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak?username=Paulojoserc&theme=radical&border_color=333333" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Paulojoserc&no_frame=true&no_bg=true&theme=onedark&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -38,6 +55,13 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
 [![Docker](https://img.shields.io/badge/Docker-27+-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-VE-00A3E0?logo=proxmox&logoColor=white&style=for-the-badge)](https://www.proxmox.com/)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
 [![Fortinet](https://img.shields.io/badge/Fortinet-FE5800?logo=fortinet&logoColor=white&style=for-the-badge)](https://www.fortinet.com/)
@@ -46,6 +70,13 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F57818?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24930?logo=jenkins&logoColor=white&style=for-the-badge)](https://www.jenkins.io/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![Git](https://img.shields.io/badge/Git-2496ED?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
@@ -96,6 +127,38 @@
 
 ---
 
+## 🏆 Experiência Profissional
+
+### Analista de Suporte — Comunidade Católica Shalom
+*Dez/2017 — Presente (8+ anos)*
+
+- Administração de Active Directory, DNS, DHCP, GPO e File Server em Windows Server
+- Configuração e gestão de Firewall Fortinet (regras, NAT, roteamento)
+- Implantação de segmentação de rede via VLANs
+- Gestão de VPNs Site-to-Site e Client-to-Site
+- Implantação e administração do Kaspersky Security Center
+- Monitoramento com Zabbix
+- Administração de Proxmox e containers Docker
+- Liderança na homologação de ambiente com Ollama para LLMs locais
+- Planejamento de aquisição de infraestrutura e especificações técnicas para fornecedores
+- Suporte a sistemas ERP (Milênio, Lux W4, Forte AC)
+
+### Analista de Suporte Júnior — Comunidade Católica Shalom
+*Abr/2013 — Dez/2017 (4 anos e 9 meses)*
+
+- Administração e suporte a servidores Windows Server (2005, 2008R2, 2012R2)
+- Suporte a sistemas ERP (Lux W4, Forte AC) e sistemas de videomonitoramento
+- Implantação e suporte ao Service Desk
+- Suporte técnico remoto e presencial
+
+### Técnico de Suporte em TI — Ello-Comércio de Materiais Médicos e Cirúrgicos
+*Abr/2010 — Abr/2013 (3 anos)*
+
+- Manutenção de hardware, instalação e configuração de redes
+- Suporte técnico remoto e presencial
+- Instalação e configuração de Windows XP, 7 e 8.1
+
+---
 
 ## 🏥 ClinicMedAgil
 
