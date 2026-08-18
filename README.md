@@ -13,8 +13,8 @@
 <div align="center">
 
 [![Seguidores](https://img.shields.io/github/followers/Paulojoserc?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=followers)
-[![Repositórios](https://img.shields.io/github/repo-count/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=repositories)
-[![Contribuições](https://img.shields.io/github/contributor-count/Paulojoserc?label=Contribuições&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc/pulse)
+[![Repositórios](https://img.shields.io/badge/dynamic/json?label=Repositórios&color=blue&logo=github&logoColor=white&query=$&.length&url=https://api.github.com/users/Paulojoserc/repos)](https://github.com/Paulojoserc?tab=repositories)
+[![Contribuições](https://img.shields.io/badge/dynamic/json?label=Contribui%C3%A7%C3%B5es&color=green&logo=github&logoColor=white&query=$&.contributions&url=https://api.github.com/users/Paulojoserc)](https://github.com/Paulojoserc/pulse)
 
 </div>
 
@@ -25,16 +25,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&theme=radical&show_icons=true&border_color=333333" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333&langs_count=8&hide=html" alt="Top Languages" />
+  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Reposit%C3%B3rios&color=blue&logo=github&logoColor=white&query=$&.length&url=https://api.github.com/users/Paulojoserc/repos" alt="Repos">
+  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Seguidores&color=red&logo=github&logoColor=white&query=$&.followers&url=https://api.github.com/users/Paulojoserc" alt="Followers">
+  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Contribui%C3%A7%C3%B5es&color=green&logo=github&logoColor=white&query=$&.contributions&url=https://api.github.com/users/Paulojoserc" alt="Contributions">
+  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Data+criado&color=orange&logo=calendar&logoColor=white&query=$&.created_at&url=https://api.github.com/users/Paulojoserc" alt="Member since">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak?username=Paulojoserc&theme=radical&border_color=333333" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paulojoserc&no_frame=true&no_bg=true&theme=onedark&column=7" alt="GitHub Trophies" />
+  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Top+Language&color=purple&logo=github&logoColor=white&query=$[0].name&url=https://api.github.com/users/Paulojoserc/repos&suffix=%20%E2%80%A2+%20Languages" alt="Top Language">
+
 </div>
 
 ---
@@ -51,6 +51,13 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
 [![Docker](https://img.shields.io/badge/Docker-27+-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
@@ -66,6 +73,13 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
 [![Fortinet](https://img.shields.io/badge/Fortinet-FE5800?logo=fortinet&logoColor=white&style=for-the-badge)](https://www.fortinet.com/)
 [![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/active-directory/)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![Zabbix](https://img.shields.io/badge/Zabbix-Za0000?logo=zabbix&logoColor=white&style=for-the-badge)](https://www.zabbix.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-F57818?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24930?logo=jenkins&logoColor=white&style=for-the-badge)](https://www.jenkins.io/)
@@ -81,6 +95,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-400000?logo=insomnia&logoColor=white&style=for-the-badge)](https://insomnia.rest/)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![DBeaver](https://img.shields.io/badge/DBeaver-0050FF?logo=dbeaver&logoColor=white&style=for-the-badge)](https://dbeaver.io/)
 [![Vim](https://img.shields.io/badge/Vim-01982C?logo=vim&logoColor=white&style=for-the-badge)](https://www.vim.org/)
 [![SSH](https://img.shields.io/badge/SSH-00FF00?logo=openssh&logoColor=black&style=for-the-badge)](https://www.openssh.com/)
