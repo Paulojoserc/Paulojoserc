@@ -1,133 +1,166 @@
-### Olá! Eu sou Paulo Costa, desenvolvedor de sistemas. 👨‍💻
-
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-1-blue)](https://github.com/Paulojoserc)
-
-[![Java](https://img.shields.io/badge/Java-21+-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-27+-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
-
----
-
-### GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/Paulojoserc">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&show_icons=true&theme=radical&border_color=333333" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333" alt="Top Languages"/>
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18%2B+anos+de+experi%C3%AAncia;DevOps+em+forma%C3%A7%C3%A3o;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18%2B+anos+de+experi%C3%AAncia;DevOps+em+forma%C3%A7%C3%A3o;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22" alt="Typing SVG">
   </a>
 </div>
 
-<!-- Fallback: se as estatísticas não carregarem, descomente abaixo para mostrar uma versão estática alternativa -->
-<!--
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paulojoserc&no-bg=true&margin-left=8&margin-right=8&margin-top=5&margin-bottom=5&theme=onedark&hostname=github.com" alt="GitHub Trophies"/>
+  <br>
+  <img src="https://img.shields.io/badge/Profile-Views-1-blue?style=for-the-badge" alt="Profile Views">
+  <br><br>
+  <a href="https://github.com/Paulojoserc">
+    <img src="https://github-profile-trophy.vercel.app/?username=Paulojoserc&no-frame=true&no-bg=true&margin-w=4&margin-h=4&margin-top=8&margin-bottom=8&theme=onedark&row=4" alt="GitHub Profile Trophy">
+  </a>
+  <br><br>
+  <a href="https://github.com/Paulojoserc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&show_icons=true&theme=radical&border_color=333333&icon_style=solid" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333&icon_style=solid" alt="Top Languages">
+  </a>
 </div>
--->
 
 ---
 
-### Linguagens e Ferramentas
+<div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"><br>
-      <sub>Java</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="40"><br>
-      <sub>Maven</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40"><br>
-      <sub>Spring</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring-boot/spring-boot-original.svg" width="40"><br>
-      <sub>Spring Boot</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"><br>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"><br>
-      <sub>TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"><br>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"><br>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40"><br>
-      <sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"><br>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40"><br>
-      <sub>Nginx</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"><br>
-      <sub>Git</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40"><br>
-      <sub>JUnit</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"><br>
-      <sub>Postman</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40"><br>
-      <sub>Insomnia</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"><br>
-      <sub>Linux</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="40"><br>
-      <sub>SSH</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40"><br>
-      <sub>GitHub</sub>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Stack
+
+<br>
+
+[![Java](https://img.shields.io/badge/Java-21+-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)](https://spring.io/projects/spring-boot)
+[![Maven](https://img.shields.io/badge/Maven-3.9+-003399?logo=maven&logoColor=white&style=for-the-badge)](https://maven.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
+[![Docker](https://img.shields.io/badge/Docker-27+-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-VE-00A3E0?logo=proxmox&logoColor=white&style=for-the-badge)](https://www.proxmox.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
+[![Fortinet](https://img.shields.io/badge/Fortinet-FE5800?logo=fortinet&logoColor=white&style=for-the-badge)](https://www.fortinet.com/)
+[![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/active-directory/)
+[![Zabbix](https://img.shields.io/badge/Zabbix-Za0000?logo=zabbix&logoColor=white&style=for-the-badge)](https://www.zabbix.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F57818?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24930?logo=jenkins&logoColor=white&style=for-the-badge)](https://www.jenkins.io/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
+[![Git](https://img.shields.io/badge/Git-2496ED?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-400000?logo=insomnia&logoColor=white&style=for-the-badge)](https://insomnia.rest/)
+[![DBeaver](https://img.shields.io/badge/DBeaver-0050FF?logo=dbeaver&logoColor=white&style=for-the-badge)](https://dbeaver.io/)
+[![Vim](https://img.shields.io/badge/Vim-01982C?logo=vim&logoColor=white&style=for-the-badge)](https://www.vim.org/)
+[![SSH](https://img.shields.io/badge/SSH-00FF00?logo=openssh&logoColor=black&style=for-the-badge)](https://www.openssh.com/)
+
+</div>
 
 ---
 
-### ClinicaMedAgil
+## 👨‍💻 Sobre Mim
 
-Sistema completo de gestão clínica (hackathon): API REST com Spring Boot, frontend React + TypeScript, PostgreSQL, Docker e deploy no Oracle Cloud.
+<div align="center">
+
+Olá! Eu sou **Paulo Costa** 👨‍💻
+
+Estatístico de Infraestrutura de TI com **18+ anos de experiência** e agora evoluindo para **DevOps e Desenvolvimento**.
+
+</div>
+
+---
+
+### O que faço
+
+| Área | Descrição |
+|------|-----------|
+| **Infraestrutura** | Administração de Windows Server, Active Directory, DNS, DHCP, GPO, File Server, Fortinet Firewall, VLANs, VPNs Site-to-Site e Client-to-Site |
+| **Virtualização** | Proxmox VE, Docker containers, ambientes de homologação |
+| **Monitoramento** | Zabbix para monitoramento de incidentes, Grafana para dashboards |
+| **DevOps (formação)** | Laboratório próprio com Docker, Keycloak, LDAP, Ollama/LLMs locais, CI/CD em construção |
+| **Desenvolvimento** | Estudando Java + Spring Boot com primeiras aplicações práticas |
+| **Suporte** | Suporte a sistemas ERP (Milênio, Lux W4, Forte AC), Service Desk, hardware e redes |
+
+---
+
+### 🎓 Formação
+
+| Instituição | Curso | Período |
+|-------------|-------|---------|
+| **Unifametro** | Pós-graduação — Engenharia de Software, DevOps e Computação em Nuvem | Ago/2025 — Abr/2027 (em curso) |
+| **Estácio** | Tecnólogo em Análise e Desenvolvimento de Sistemas | 2019 — Out/2020 |
+
+---
+
+### 📚 Certificações e Cursos
+
+- **T4 - ONE** — Linguagem de Programação Java (Formação Iniciante)
+- **T4 - ONE** — Java e Orientação a Objetos (Formação)
+- **T4 - ONE** — Desenvolvimento Pessoal (Formação)
+- **Alura** — cursos de programação e infraestrutura
+- **Algaworks** — estudos em Java e Spring Boot
+
+---
+
+## 🏆 Experiência Profissional
+
+### Analista de Suporte — Comunidade Católica Shalom
+*Dez/2017 — Presente (8+ anos)*
+
+- Administração de Active Directory, DNS, DHCP, GPO e File Server em Windows Server
+- Configuração e gestão de Firewall Fortinet (regras, NAT, roteamento)
+- Implantação de segmentação de rede via VLANs
+- Gestão de VPNs Site-to-Site e Client-to-Site
+- Implantação e administração do Kaspersky Security Center
+- Monitoramento com Zabbix
+- Administração de Proxmox e containers Docker
+- Liderança na homologação de ambiente com Ollama para LLMs locais
+- Planejamento de aquisição de infraestrutura e especificações técnicas para fornecedores
+- Suporte a sistemas ERP (Milênio, Lux W4, Forte AC)
+
+### Analista de Suporte Júnior — Comunidade Católica Shalom
+*Abr/2013 — Dez/2017 (4 anos e 9 meses)*
+
+- Administração e suporte a servidores Windows Server (2005, 2008R2, 2012R2)
+- Suporte a sistemas ERP (Lux W4, Forte AC) e sistemas de videomonitoramento
+- Implantação e suporte ao Service Desk
+- Suporte técnico remoto e presencial
+
+### Técnico de Suporte em TI — Ello-Comércio de Materiais Médicos e Cirúrgicos
+*Abr/2010 — Abr/2013 (3 anos)*
+
+- Manutenção de hardware, instalação e configuração de redes
+- Suporte técnico remoto e presencial
+- Instalação e configuração de Windows XP, 7 e 8.1
+
+---
+
+## 🏥 ClinicaMedAgil
+
+> Sistema completo de gestão clínica — projeto de hackathon
+
+Construído com:
+- **Backend:** Java 21 + Spring Boot 3.4 + PostgreSQL + JWT + Docker
+- **Frontend:** React 19 + TypeScript 5.9 + Vite + Ant Design + Axios
+- **Infra:** Docker Compose + Nginx (proxy) + deploy no Oracle Cloud (OCI)
 
 [![ClinicaMedAgil](https://img.shields.io/badge/ClinicaMedAgil-Java%2FSpring_Boot%2FReact%2FDocker-6DB33F?logo=github&logoColor=white&style=for-the-badge)](https://github.com/orgs/ClinicaMedAgil/repositories)
 
 ---
 
-### Social
+## 🔭 O que estou fazendo agora
+
+- **Em fase de estudo:** Java + Spring Boot com foco em desenvolvimento backend
+- **Em construção:** Laboratório DevOps com Docker, Keycloak, LDAP e Ollama para testes de LLMs locais
+- **Evolução:** Transição de Infraestrutura para DevOps + Desenvolvimento full-cycle
+- **Quando não sei:** pesquiso, leio a documentação e volto atrás ⚠️
+
+---
+
+## 🌐 Social
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQWxwm5_dCR3B6MA6az0tEQ)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulojoserc83@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjrc83@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-josé-da-rocha-costa/)
 
 ---
 
-> Agosto de 2026
+> Última atualização: **agosto de 2026**
