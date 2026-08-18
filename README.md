@@ -13,8 +13,8 @@
 <div align="center">
 
 [![Seguidores](https://img.shields.io/github/followers/Paulojoserc?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=followers)
-[![Repositórios](https://img.shields.io/badge/dynamic/json?label=Reposit%C3%B3rios&color=blue&logo=github&logoColor=white&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc)](https://github.com/Paulojoserc?tab=repositories)
-[![Contribuições](https://img.shields.io/badge/dynamic/json?label=Contribui%C3%A7%C3%B5es&color=green&logo=github&logoColor=white&query=$.contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc)](https://github.com/Paulojoserc/pulse)
+[![Repositórios](https://img.shields.io/github/repo-count/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=repositories)
+[![Contribuições](https://img.shields.io/github/contributor-count/Paulojoserc?label=Contribuições&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc/pulse)
 
 </div>
 
@@ -22,18 +22,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Reposit%C3%B3rios&color=blue&logo=github&logoColor=white&query=$.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc" alt="Repositórios">
-  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Seguidores&color=red&logo=github&logoColor=white&query=$.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc" alt="Seguidores">
-  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Contribui%C3%A7%C3%B5es&color=green&logo=github&logoColor=white&query=$.contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc" alt="Contribuições">
-  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Data+Criado&color=orange&logo=calendar&logoColor=white&query=$.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc" alt="Data de Criação">
+  <a href="https://github.com/Paulojoserc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&show_icons=true&theme=radical&border_color=333333" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333&langs_count=8&hide=html" alt="Top Languages" />
+  </a>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak?username=Paulojoserc&theme=radical&border_color=333333" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=Top+Language&color=purple&logo=github&logoColor=white&query=$[0].language&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc%2Frepos%3Fsort%3Dpushed&suffix=%20%E2%80%A2+Main+Language" alt="Top Language">
-  <img height="180em" src="https://img.shields.io/badge/dynamic/json?label=%C3%81rea+Principal&color=cyan&logo=github&logoColor=white&query=$.bio&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPaulojoserc&suffix=+-+Profile" alt="Bio">
+  <img src="https://github-profile-trophy.vercel.app/?username=Paulojoserc&no_frame=true&no_bg=true&theme=onedark&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
