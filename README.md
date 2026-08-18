@@ -1,20 +1,23 @@
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18%2B+anos+de+experi%C3%AAncia;DevOps+em+forma%C3%A7%C3%A3o;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18%2B+anos+de+experi%C3%AAncia;DevOps+em+forma%C3%A7%C3%A3o;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22" alt="Typing SVG">
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18+anos+de+experiencia;DevOps+em+formacao;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18+anos+de+experiencia;DevOps+em+formacao;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Profile-Views-1-blue?style=for-the-badge" alt="Profile Views">
-  <br><br>
   <a href="https://github.com/Paulojoserc">
-    <img src="https://github-profile-trophy.vercel.app/?username=Paulojoserc&no-frame=true&no-bg=true&margin-w=4&margin-h=4&margin-top=8&margin-bottom=8&theme=onedark&row=4" alt="GitHub Profile Trophy">
+    <img src="https://img.shields.io/github/followers/Paulojoserc?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores">
+    <img src="https://img.shields.io/github/stars/Paulojoserc?label=Estrelas&style=for-the-badge&logo=star&logoColor=white" alt="Estrelas">
+    <img src="https://img.shields.io/github/repositories/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white" alt="Repositórios">
   </a>
+</div>
+
+<div align="center">
   <br><br>
   <a href="https://github.com/Paulojoserc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&show_icons=true&theme=radical&border_color=333333&icon_style=solid" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333&icon_style=solid" alt="Top Languages">
+    <img height="180em" src="https://github-readme-stats.pelkedocs.workers.dev/api?username=Paulojoserc&show_icons=true&theme=radical&border_color=333333" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.pelkedocs.workers.dev/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333" alt="Top Languages">
   </a>
 </div>
 
@@ -36,6 +39,13 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
 [![Docker](https://img.shields.io/badge/Docker-27+-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-VE-00A3E0?logo=proxmox&logoColor=white&style=for-the-badge)](https://www.proxmox.com/)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
 [![Fortinet](https://img.shields.io/badge/Fortinet-FE5800?logo=fortinet&logoColor=white&style=for-the-badge)](https://www.fortinet.com/)
@@ -44,6 +54,13 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F57818?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24930?logo=jenkins&logoColor=white&style=for-the-badge)](https://www.jenkins.io/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![Git](https://img.shields.io/badge/Git-2496ED?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
@@ -62,7 +79,7 @@
 
 Olá! Eu sou **Paulo Costa** 👨‍💻
 
-Estatístico de Infraestrutura de TI com **18+ anos de experiência** e agora evoluindo para **DevOps e Desenvolvimento**.
+**Especialista em Infraestrutura de TI** com 18+ anos de experiência e agora evoluindo para **DevOps e Desenvolvimento**.
 
 </div>
 
@@ -72,7 +89,7 @@ Estatístico de Infraestrutura de TI com **18+ anos de experiência** e agora ev
 
 | Área | Descrição |
 |------|-----------|
-| **Infraestrutura** | Administração de Windows Server, Active Directory, DNS, DHCP, GPO, File Server, Fortinet Firewall, VLANs, VPNs Site-to-Site e Client-to-Site |
+| **Infraestrutura** | Windows Server, Active Directory, DNS, DHCP, GPO, File Server, Fortinet Firewall, VLANs, VPNs Site-to-Site e Client-to-Site |
 | **Virtualização** | Proxmox VE, Docker containers, ambientes de homologação |
 | **Monitoramento** | Zabbix para monitoramento de incidentes, Grafana para dashboards |
 | **DevOps (formação)** | Laboratório próprio com Docker, Keycloak, LDAP, Ollama/LLMs locais, CI/CD em construção |
@@ -133,7 +150,7 @@ Estatístico de Infraestrutura de TI com **18+ anos de experiência** e agora ev
 
 ---
 
-## 🏥 ClinicaMedAgil
+## 🏥 ClinicMedAgil
 
 > Sistema completo de gestão clínica — projeto de hackathon
 
@@ -142,7 +159,7 @@ Construído com:
 - **Frontend:** React 19 + TypeScript 5.9 + Vite + Ant Design + Axios
 - **Infra:** Docker Compose + Nginx (proxy) + deploy no Oracle Cloud (OCI)
 
-[![ClinicaMedAgil](https://img.shields.io/badge/ClinicaMedAgil-Java%2FSpring_Boot%2FReact%2FDocker-6DB33F?logo=github&logoColor=white&style=for-the-badge)](https://github.com/orgs/ClinicaMedAgil/repositories)
+[![ClinicMedAgil](https://img.shields.io/badge/ClinicMedAgil-Java%2FSpring_Boot%2FReact%2FDocker-6DB33F?logo=github&logoColor=white&style=for-the-badge)](https://github.com/orgs/ClinicaMedAgil/repositories)
 
 ---
 
