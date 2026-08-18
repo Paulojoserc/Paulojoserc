@@ -12,32 +12,28 @@
 - 📚 Estudante pela [Alura](https://www.alura.com.br/) e [Algaworks](https://www.algaworks.com/)
 - 💬 Pode me perguntar — quando não sei, vou atrás
 
-<!-- 🎖 Projetos em destaque -->
-
 ---
 
 ### Projetos em Destaque
 
 | Projeto | Descrição | Stack | Link |
 |---------|-----------|-------|------|
-| **ClinicaMedAgil** | Sistema completo de gestão clínica (hackathon) — API REST + frontend React + deploy Docker no Oracle Cloud | Java 21, Spring Boot 3, React 19, TypeScript, PostgreSQL, Docker, Nginx | [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/orgs/ClinicaMedAgil/repositories) |
+| **ClinicaMedAgil** | Sistema completo de gestão clínica (hackathon) — API REST + frontend React + deploy Docker no Oracle Cloud | Java 21, Spring Boot 3, React 19, TypeScript, PostgreSQL, Docker, Nginx | [GitHub Org](https://github.com/orgs/ClinicaMedAgil/repositories) |
 
 ---
 
 ### GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Paulojoserc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical"/>
-  </a>
-</div>
+> **Nota:** As estatísticas via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) estão temporariamente indisponíveis (serviço em manutenção). Voltarão automaticamente quando o serviço estejar online.
 
-<!-- Optional: GitHub Activity Graph -->
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulojoserc&theme=radical&mode=w&line=fff&point=fff&area=true&radius=10&weekend=true"/>
-</div>
+<!-- 
+  Uncomment below when service is back:
+  <div align="center">
+    <a href="https://github.com/Paulojoserc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulojoserc&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical"/>
+    </a>
+  </div>
 -->
 
 ---
