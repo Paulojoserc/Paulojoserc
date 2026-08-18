@@ -1,33 +1,32 @@
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18+anos+de+experiencia;DevOps+em+formacao;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18+anos+de+experiencia;DevOps+em+formacao;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22" alt="Typing SVG">
-  </a>
+
+### 👋 Olá! Eu sou Paulo Costa
+
+<a href="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18+anos+de+experiencia;DevOps+em+formacao;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Infraestrutura+de+TI;18+anos+de+experiencia;DevOps+em+formacao;Java+%26+Spring+Boot;Docker+%7C+Proxmox+%7C+Fortinet;Infrastructure+Engineer;autonomus&font=Fira+Code&center=true&width=520&height=50&color=8B5CF6&vCenter=true&pause=2000&size=22" alt="Typing SVG">
+</a>
+
 </div>
 
-<div align="center">
-  <br>
-  <a href="https://github.com/Paulojoserc">
-    <img src="https://img.shields.io/github/followers/Paulojoserc?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores">
-    <img src="https://img.shields.io/github/stars/Paulojoserc?label=Estrelas&style=for-the-badge&logo=star&logoColor=white" alt="Estrelas">
-    <img src="https://img.shields.io/github/repositories/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white" alt="Repositórios">
-  </a>
-</div>
+<br>
 
 <div align="center">
-  <br><br>
-  <a href="https://github.com/Paulojoserc">
-    <img height="180em" src="https://github-readme-stats.pelkedocs.workers.dev/api?username=Paulojoserc&show_icons=true&theme=radical&border_color=333333" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.pelkedocs.workers.dev/api/top-langs/?username=Paulojoserc&layout=compact&theme=radical&border_color=333333" alt="Top Languages">
-  </a>
+
+[![Seguidores](https://img.shields.io/github/followers/Paulojoserc?label=Seguidores&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=followers)
+[![Repositórios](https://img.shields.io/github/repos/Paulojoserc?label=Repositórios&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc?tab=repositories)
+[![Contribuições](https://img.shields.io/github/contributors/Paulojoserc?label=Contribuições&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulojoserc/pulse)
+
 </div>
+
+<br><br>
 
 ---
 
-<div align="center">
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <br>
+
+<div align="center">
 
 [![Java](https://img.shields.io/badge/Java-21+-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)](https://spring.io/projects/spring-boot)
@@ -39,13 +38,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
 [![Docker](https://img.shields.io/badge/Docker-27+-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-VE-00A3E0?logo=proxmox&logoColor=white&style=for-the-badge)](https://www.proxmox.com/)
-
-</div>
-
-<br>
-
-<div align="center">
-
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
 [![Fortinet](https://img.shields.io/badge/Fortinet-FE5800?logo=fortinet&logoColor=white&style=for-the-badge)](https://www.fortinet.com/)
@@ -54,13 +46,6 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F57818?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24930?logo=jenkins&logoColor=white&style=for-the-badge)](https://www.jenkins.io/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)](https://github.com/PowerShell/PowerShell)
-
-</div>
-
-<br>
-
-<div align="center">
-
 [![Git](https://img.shields.io/badge/Git-2496ED?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
@@ -75,13 +60,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<div align="center">
-
-Olá! Eu sou **Paulo Costa** 👨‍💻
-
-**Especialista em Infraestrutura de TI** com 18+ anos de experiência e agora evoluindo para **DevOps e Desenvolvimento**.
-
-</div>
+**Especialista em Infraestrutura de TI** com **18+ anos de experiência** e agora evoluindo para **DevOps e Desenvolvimento**.
 
 ---
 
